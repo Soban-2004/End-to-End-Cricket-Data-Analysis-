@@ -16,7 +16,9 @@ This project focuses on analyzing the data from the **ICC Men's T20 World Cup 20
    #### 2.1: **Openers**
    - Focuses on the performance of opening batsmen, their runs, strike rates, and average scores across the tournament.
    
-   ![Openers](assets/screenshots/openers_analysis.png)
+   ![Openers](assets/screenshots/Openers.png)
+
+   ![Openers](assets/screenshots/Openers..png)
    
    #### 2.2: **Middle Order**
    - Analyzes the performance of middle-order batsmen, evaluating their impact in terms of stability, strike rate, and runs scored in pressure situations.
