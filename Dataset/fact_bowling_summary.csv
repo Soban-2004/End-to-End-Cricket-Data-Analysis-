@@ -1,0 +1,591 @@
+,match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,Match ID,balls
+0,India vs South Africa,South Africa,Marco Jansen,4.0,0,49,1,12.25,4,5,2,1,1,T20I # 2729,24
+1,India vs South Africa,South Africa,Keshav Maharaj,3.0,0,23,2,7.66,10,3,1,0,0,T20I # 2729,18
+2,India vs South Africa,South Africa,Kagiso Rabada,4.0,0,36,1,9.0,8,2,2,2,0,T20I # 2729,24
+3,India vs South Africa,South Africa,Aiden Markram,2.0,0,16,0,8.0,1,0,1,0,0,T20I # 2729,12
+4,India vs South Africa,South Africa,Anrich Nortje,4.0,0,26,2,6.5,7,2,0,2,0,T20I # 2729,24
+5,India vs South Africa,South Africa,Tabraiz Shamsi,3.0,0,26,0,8.66,4,1,1,1,0,T20I # 2729,18
+6,India vs South Africa,India,Arshdeep Singh,4.0,0,20,2,5.0,12,2,0,0,0,T20I # 2729,24
+7,India vs South Africa,India,Jasprit Bumrah,4.0,0,18,2,4.5,14,2,0,0,0,T20I # 2729,24
+8,India vs South Africa,India,Axar Patel,4.0,0,49,1,12.25,8,5,3,2,0,T20I # 2729,24
+9,India vs South Africa,India,Kuldeep Yadav,4.0,0,45,0,11.25,6,3,3,0,0,T20I # 2729,24
+10,India vs South Africa,India,Hardik Pandya,3.0,0,20,3,6.66,9,1,1,1,1,T20I # 2729,18
+11,India vs South Africa,India,Ravindra Jadeja,1.0,0,12,0,12.0,0,0,1,0,0,T20I # 2729,6
+12,India vs England,England,Reece Topley,3.0,0,25,1,8.33,8,3,1,0,0,T20I # 2724,18
+13,India vs England,England,Jofra Archer,4.0,0,33,1,8.25,7,4,0,0,0,T20I # 2724,24
+14,India vs England,England,Sam Curran,2.0,0,25,1,12.5,3,2,2,0,0,T20I # 2724,12
+15,India vs England,England,Adil Rashid,4.0,0,25,1,6.25,9,3,0,0,0,T20I # 2724,24
+16,India vs England,England,Chris Jordan,3.0,0,37,3,12.33,4,0,4,0,0,T20I # 2724,18
+17,India vs England,England,Liam Livingstone,4.0,0,24,0,6.0,9,1,1,1,0,T20I # 2724,24
+18,India vs England,India,Arshdeep Singh,2.0,0,17,0,8.5,5,3,0,0,0,T20I # 2724,12
+19,India vs England,India,Jasprit Bumrah,2.4,0,12,2,4.5,8,1,0,0,0,T20I # 2724,16
+20,India vs England,India,Axar Patel,4.0,0,23,3,5.75,10,0,1,0,0,T20I # 2724,24
+21,India vs England,India,Kuldeep Yadav,4.0,0,19,3,4.75,12,2,0,0,0,T20I # 2724,24
+22,India vs England,India,Ravindra Jadeja,3.0,0,16,0,5.33,6,1,0,0,0,T20I # 2724,18
+23,India vs England,India,Hardik Pandya,1.0,0,14,0,14.0,1,1,1,0,0,T20I # 2724,6
+24,Afghanistan vs South Africa,South Africa,Marco Jansen,3.0,0,16,3,5.33,13,2,0,4,0,T20I # 2723,18
+25,Afghanistan vs South Africa,South Africa,Keshav Maharaj,1.0,0,6,0,6.0,3,1,0,0,0,T20I # 2723,6
+26,Afghanistan vs South Africa,South Africa,Kagiso Rabada,3.0,1,14,2,4.66,13,3,0,0,0,T20I # 2723,18
+27,Afghanistan vs South Africa,South Africa,Anrich Nortje,3.0,0,7,2,2.33,14,0,0,1,0,T20I # 2723,18
+28,Afghanistan vs South Africa,South Africa,Tabraiz Shamsi,1.5,0,6,3,3.27,9,1,0,1,0,T20I # 2723,11
+29,Afghanistan vs South Africa,Afghanistan,Naveen-ul-Haq,3.0,0,15,0,5.0,12,2,0,1,0,T20I # 2723,18
+30,Afghanistan vs South Africa,Afghanistan,Fazalhaq Farooqi,2.0,0,11,1,5.5,9,2,0,1,0,T20I # 2723,12
+31,Afghanistan vs South Africa,Afghanistan,Rashid Khan,1.0,0,8,0,8.0,2,1,0,0,0,T20I # 2723,6
+32,Afghanistan vs South Africa,Afghanistan,Azmatullah Omarzai,1.5,0,18,0,9.81,6,2,1,0,1,T20I # 2723,11
+33,Afghanistan vs South Africa,Afghanistan,Gulbadin Naib,1.0,0,8,0,8.0,2,1,0,0,0,T20I # 2723,6
+34,Afghanistan vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,4.0,0,36,0,9.0,9,1,2,1,0,T20I # 2722,24
+35,Afghanistan vs Bangladesh,Bangladesh,Taskin Ahmed,4.0,1,12,1,3.0,19,0,1,0,0,T20I # 2722,24
+36,Afghanistan vs Bangladesh,Bangladesh,Shakib Al Hasan,4.0,0,19,0,4.75,11,0,1,0,0,T20I # 2722,24
+37,Afghanistan vs Bangladesh,Bangladesh,Mustafizur Rahman,4.0,0,17,1,4.25,14,2,0,0,0,T20I # 2722,24
+38,Afghanistan vs Bangladesh,Bangladesh,Rishad Hossain,4.0,0,26,3,6.5,13,3,0,1,0,T20I # 2722,24
+39,Afghanistan vs Bangladesh,Afghanistan,Naveen-ul-Haq,3.5,0,26,4,6.78,12,3,1,0,0,T20I # 2722,23
+40,Afghanistan vs Bangladesh,Afghanistan,Fazalhaq Farooqi,2.0,0,15,1,7.5,3,1,0,2,0,T20I # 2722,12
+41,Afghanistan vs Bangladesh,Afghanistan,Mohammad Nabi,2.0,0,15,0,7.5,5,2,0,0,0,T20I # 2722,12
+42,Afghanistan vs Bangladesh,Afghanistan,Rashid Khan,4.0,0,23,4,5.75,9,2,0,1,0,T20I # 2722,24
+43,Afghanistan vs Bangladesh,Afghanistan,Noor Ahmad,4.0,0,13,0,3.25,18,2,0,0,0,T20I # 2722,24
+44,Afghanistan vs Bangladesh,Afghanistan,Gulbadin Naib,2.0,0,5,1,2.5,7,0,0,0,0,T20I # 2722,12
+45,India vs Australia,Australia,Mitchell Starc,4.0,0,45,2,11.25,12,4,4,1,0,T20I # 2721,24
+46,India vs Australia,Australia,Josh Hazlewood,4.0,0,14,1,3.5,13,1,0,0,0,T20I # 2721,24
+47,India vs Australia,Australia,Pat Cummins,4.0,0,48,0,12.0,5,4,3,0,0,T20I # 2721,24
+48,India vs Australia,Australia,Adam Zampa,4.0,0,41,0,10.25,2,1,3,0,0,T20I # 2721,24
+49,India vs Australia,Australia,Marcus Stoinis,4.0,0,56,2,14.0,6,4,5,1,0,T20I # 2721,24
+50,India vs Australia,India,Arshdeep Singh,4.0,0,37,3,9.25,12,4,2,2,0,T20I # 2721,24
+51,India vs Australia,India,Jasprit Bumrah,4.0,0,29,1,7.25,11,3,1,0,0,T20I # 2721,24
+52,India vs Australia,India,Axar Patel,3.0,0,21,1,7.0,9,2,1,0,0,T20I # 2721,18
+53,India vs Australia,India,Hardik Pandya,4.0,0,47,0,11.75,8,4,3,1,0,T20I # 2721,24
+54,India vs Australia,India,Kuldeep Yadav,4.0,0,24,2,6.0,9,1,1,0,0,T20I # 2721,24
+55,India vs Australia,India,Ravindra Jadeja,1.0,0,17,0,17.0,0,2,1,0,0,T20I # 2721,6
+56,West Indies vs South Africa,South Africa,Marco Jansen,2.0,0,17,1,8.5,6,2,0,4,0,T20I # 2720,12
+57,West Indies vs South Africa,South Africa,Aiden Markram,4.0,0,28,1,7.0,11,1,2,2,0,T20I # 2720,24
+58,West Indies vs South Africa,South Africa,Keshav Maharaj,4.0,0,24,1,6.0,10,1,1,0,0,T20I # 2720,24
+59,West Indies vs South Africa,South Africa,Anrich Nortje,4.0,0,26,0,6.5,13,1,2,2,0,T20I # 2720,24
+60,West Indies vs South Africa,South Africa,Tabraiz Shamsi,4.0,0,27,3,6.75,11,3,1,0,0,T20I # 2720,24
+61,West Indies vs South Africa,South Africa,Kagiso Rabada,2.0,0,11,1,5.5,7,0,1,0,0,T20I # 2720,12
+62,West Indies vs South Africa,West Indies,Akeal Hosein,3.0,0,31,0,10.33,6,6,0,0,0,T20I # 2720,18
+63,West Indies vs South Africa,West Indies,Andre Russell,4.0,0,19,2,4.75,13,2,0,1,0,T20I # 2720,24
+64,West Indies vs South Africa,West Indies,Alzarri Joseph,4.0,0,25,2,6.25,9,1,0,1,0,T20I # 2720,24
+65,West Indies vs South Africa,West Indies,Gudakesh Motie,1.0,0,20,0,20.0,0,3,1,0,0,T20I # 2720,6
+66,West Indies vs South Africa,West Indies,Obed McCoy,1.1,0,15,0,12.85,3,1,1,3,0,T20I # 2720,7
+67,West Indies vs South Africa,West Indies,Roston Chase,3.0,0,12,3,4.0,10,1,0,0,0,T20I # 2720,18
+68,U.S.A. vs England,England,Reece Topley,3.0,0,29,1,9.66,8,2,2,0,0,T20I # 2719,18
+69,U.S.A. vs England,England,Jofra Archer,3.0,0,16,0,5.33,12,1,1,0,0,T20I # 2719,18
+70,U.S.A. vs England,England,Sam Curran,2.0,0,23,2,11.5,4,3,1,0,0,T20I # 2719,12
+71,U.S.A. vs England,England,Adil Rashid,4.0,0,13,2,3.25,13,0,0,1,0,T20I # 2719,24
+72,U.S.A. vs England,England,Liam Livingstone,4.0,0,24,1,6.0,10,1,1,0,0,T20I # 2719,24
+73,U.S.A. vs England,England,Chris Jordan,2.5,0,10,4,3.52,8,0,0,0,0,T20I # 2719,17
+74,U.S.A. vs England,U.S.A.,Saurabh Netravalkar,2.0,0,21,0,10.5,5,1,2,0,0,T20I # 2719,12
+75,U.S.A. vs England,U.S.A.,Harmeet Singh,2.0,0,36,0,18.0,3,0,5,2,0,T20I # 2719,12
+76,U.S.A. vs England,U.S.A.,Nosthush Kenjige,2.0,0,19,0,9.5,3,3,0,0,0,T20I # 2719,12
+77,U.S.A. vs England,U.S.A.,Ali Khan,2.0,0,26,0,13.0,2,2,0,2,0,T20I # 2719,12
+78,U.S.A. vs England,U.S.A.,Shadley van Schalkwyk,1.4,0,15,0,9.0,2,2,0,0,1,T20I # 2719,10
+79,Afghanistan vs Australia,Australia,Ashton Agar,4.0,1,17,0,4.25,15,1,0,0,0,T20I # 2717,24
+80,Afghanistan vs Australia,Australia,Josh Hazlewood,4.0,0,39,0,9.75,10,4,2,1,0,T20I # 2717,24
+81,Afghanistan vs Australia,Australia,Pat Cummins,4.0,0,28,3,7.0,13,3,1,1,0,T20I # 2717,24
+82,Afghanistan vs Australia,Australia,Adam Zampa,4.0,0,28,2,7.0,9,2,1,1,0,T20I # 2717,24
+83,Afghanistan vs Australia,Australia,Glenn Maxwell,2.0,0,12,0,6.0,5,1,0,1,0,T20I # 2717,12
+84,Afghanistan vs Australia,Australia,Marcus Stoinis,2.0,0,19,1,9.5,4,1,1,0,0,T20I # 2717,12
+85,Afghanistan vs Australia,Afghanistan,Naveen-ul-Haq,4.0,0,20,3,5.0,12,2,0,0,0,T20I # 2717,24
+86,Afghanistan vs Australia,Afghanistan,Fazalhaq Farooqi,3.0,0,21,0,7.0,8,2,0,0,1,T20I # 2717,18
+87,Afghanistan vs Australia,Afghanistan,Azmatullah Omarzai,1.2,0,10,1,7.5,5,2,0,0,0,T20I # 2717,8
+88,Afghanistan vs Australia,Afghanistan,Mohammad Nabi,1.0,0,1,1,1.0,5,0,0,0,0,T20I # 2717,6
+89,Afghanistan vs Australia,Afghanistan,Nangeyalia Kharote,1.0,0,13,0,13.0,1,1,1,0,0,T20I # 2717,6
+90,Afghanistan vs Australia,Afghanistan,Rashid Khan,4.0,0,23,1,5.75,11,1,1,2,0,T20I # 2717,24
+91,Afghanistan vs Australia,Afghanistan,Noor Ahmad,1.0,0,11,0,11.0,3,1,0,1,0,T20I # 2717,6
+92,Afghanistan vs Australia,Afghanistan,Gulbadin Naib,4.0,0,20,4,5.0,13,1,1,0,0,T20I # 2717,24
+93,India vs Bangladesh,Bangladesh,Mahedi Hasan,4.0,0,28,0,7.0,9,2,1,0,0,T20I # 2716,24
+94,India vs Bangladesh,Bangladesh,Shakib Al Hasan,3.0,0,37,1,12.33,5,2,3,1,0,T20I # 2716,18
+95,India vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,4.0,0,32,2,8.0,11,1,3,1,0,T20I # 2716,24
+96,India vs Bangladesh,Bangladesh,Mustafizur Rahman,4.0,0,48,0,12.0,6,5,2,1,1,T20I # 2716,24
+97,India vs Bangladesh,Bangladesh,Rishad Hossain,3.0,0,43,2,14.33,4,2,4,2,0,T20I # 2716,18
+98,India vs Bangladesh,Bangladesh,Mahmudullah,2.0,0,8,0,4.0,5,0,0,1,0,T20I # 2716,12
+99,India vs Bangladesh,India,Arshdeep Singh,4.0,0,30,2,7.5,12,4,1,1,0,T20I # 2716,24
+100,India vs Bangladesh,India,Jasprit Bumrah,4.0,0,13,2,3.25,15,1,0,0,0,T20I # 2716,24
+101,India vs Bangladesh,India,Axar Patel,2.0,0,26,0,13.0,2,2,2,0,0,T20I # 2716,12
+102,India vs Bangladesh,India,Hardik Pandya,3.0,0,32,1,10.66,6,1,3,2,0,T20I # 2716,18
+103,India vs Bangladesh,India,Ravindra Jadeja,3.0,0,24,0,8.0,5,2,1,0,0,T20I # 2716,18
+104,India vs Bangladesh,India,Kuldeep Yadav,4.0,0,19,3,4.75,11,0,1,0,0,T20I # 2716,24
+105,U.S.A. vs West Indies,West Indies,Akeal Hosein,3.0,0,13,0,4.33,8,1,0,0,0,T20I # 2713,18
+106,U.S.A. vs West Indies,West Indies,Andre Russell,3.5,0,31,3,8.08,13,3,1,3,0,T20I # 2713,23
+107,U.S.A. vs West Indies,West Indies,Obed McCoy,2.0,0,20,0,10.0,4,3,0,1,0,T20I # 2713,12
+108,U.S.A. vs West Indies,West Indies,Alzarri Joseph,4.0,0,31,2,7.75,9,1,2,1,1,T20I # 2713,24
+109,U.S.A. vs West Indies,West Indies,Gudakesh Motie,3.0,0,14,1,4.66,9,1,0,0,0,T20I # 2713,18
+110,U.S.A. vs West Indies,West Indies,Roston Chase,4.0,0,19,3,4.75,9,1,0,1,0,T20I # 2713,24
+111,U.S.A. vs West Indies,U.S.A.,Saurabh Netravalkar,2.5,0,31,0,10.94,7,2,3,0,0,T20I # 2713,17
+112,U.S.A. vs West Indies,U.S.A.,Nosthush Kenjige,1.0,0,11,0,11.0,1,0,1,0,0,T20I # 2713,6
+113,U.S.A. vs West Indies,U.S.A.,Ali Khan,2.0,0,18,0,9.0,5,1,1,2,0,T20I # 2713,12
+114,U.S.A. vs West Indies,U.S.A.,Harmeet Singh,2.0,0,18,1,9.0,4,1,1,0,0,T20I # 2713,12
+115,U.S.A. vs West Indies,U.S.A.,Shadley van Schalkwyk,2.0,0,29,0,14.5,3,3,2,1,0,T20I # 2713,12
+116,U.S.A. vs West Indies,U.S.A.,Milind Kumar,1.0,0,22,0,22.0,1,0,3,1,0,T20I # 2713,6
+117,South Africa vs England,England,Reece Topley,4.0,0,23,0,5.75,8,1,0,2,0,T20I # 2712,24
+118,South Africa vs England,England,Moeen Ali,3.0,0,25,1,8.33,6,2,1,0,0,T20I # 2712,18
+119,South Africa vs England,England,Jofra Archer,4.0,0,40,3,10.0,10,3,3,1,0,T20I # 2712,24
+120,South Africa vs England,England,Sam Curran,3.0,0,29,0,9.66,7,1,2,1,0,T20I # 2712,18
+121,South Africa vs England,England,Adil Rashid,4.0,0,20,1,5.0,9,1,0,0,0,T20I # 2712,24
+122,South Africa vs England,England,Mark Wood,2.0,0,22,0,11.0,4,4,0,2,0,T20I # 2712,12
+123,South Africa vs England,South Africa,Marco Jansen,4.0,0,31,0,7.75,9,2,1,0,1,T20I # 2712,24
+124,South Africa vs England,South Africa,Kagiso Rabada,4.0,0,32,2,8.0,9,3,1,2,0,T20I # 2712,24
+125,South Africa vs England,South Africa,Keshav Maharaj,4.0,0,25,2,6.25,9,2,0,0,0,T20I # 2712,24
+126,South Africa vs England,South Africa,Ottneil Baartman,3.0,0,27,1,9.0,7,3,1,0,0,T20I # 2712,18
+127,South Africa vs England,South Africa,Anrich Nortje,4.0,0,35,1,8.75,4,4,0,1,0,T20I # 2712,24
+128,South Africa vs England,South Africa,Aiden Markram,1.0,0,4,0,4.0,2,0,0,0,0,T20I # 2712,6
+129,Bangladesh vs Australia,Australia,Mitchell Starc,4.0,0,21,1,5.25,15,3,0,2,0,T20I # 2711,24
+130,Bangladesh vs Australia,Australia,Josh Hazlewood,4.0,1,25,0,6.25,12,1,1,1,0,T20I # 2711,24
+131,Bangladesh vs Australia,Australia,Pat Cummins,4.0,0,29,3,7.25,8,1,0,3,0,T20I # 2711,24
+132,Bangladesh vs Australia,Australia,Adam Zampa,4.0,0,24,2,6.0,10,3,0,0,0,T20I # 2711,24
+133,Bangladesh vs Australia,Australia,Marcus Stoinis,2.0,0,24,1,12.0,3,1,2,1,0,T20I # 2711,12
+134,Bangladesh vs Australia,Australia,Glenn Maxwell,2.0,0,14,1,7.0,3,1,0,0,0,T20I # 2711,12
+135,Bangladesh vs Australia,Bangladesh,Mahedi Hasan,4.0,0,22,0,5.5,15,1,2,0,0,T20I # 2711,24
+136,Bangladesh vs Australia,Bangladesh,Tanzim Hasan Sakib,1.0,0,9,0,9.0,2,1,0,0,0,T20I # 2711,6
+137,Bangladesh vs Australia,Bangladesh,Taskin Ahmed,1.2,0,22,0,16.5,2,2,2,0,0,T20I # 2711,8
+138,Bangladesh vs Australia,Bangladesh,Mustafizur Rahman,2.0,0,23,0,11.5,3,3,1,0,0,T20I # 2711,12
+139,Bangladesh vs Australia,Bangladesh,Rishad Hossain,3.0,0,23,2,7.66,7,2,1,0,0,T20I # 2711,18
+140,India vs Afghanistan,Afghanistan,Fazalhaq Farooqi,4.0,0,33,3,8.25,12,4,1,2,0,T20I # 2710,24
+141,India vs Afghanistan,Afghanistan,Mohammad Nabi,3.0,0,24,0,8.0,7,3,0,0,0,T20I # 2710,18
+142,India vs Afghanistan,Afghanistan,Naveen-ul-Haq,4.0,0,40,1,10.0,9,3,2,3,0,T20I # 2710,24
+143,India vs Afghanistan,Afghanistan,Rashid Khan,4.0,0,26,3,6.5,13,3,1,0,0,T20I # 2710,24
+144,India vs Afghanistan,Afghanistan,Noor Ahmad,3.0,0,30,0,10.0,4,1,2,1,0,T20I # 2710,18
+145,India vs Afghanistan,Afghanistan,Azmatullah Omarzai,2.0,0,23,0,11.5,3,2,1,1,0,T20I # 2710,12
+146,India vs Afghanistan,India,Arshdeep Singh,4.0,0,36,3,9.0,12,3,2,5,0,T20I # 2710,24
+147,India vs Afghanistan,India,Jasprit Bumrah,4.0,1,7,3,1.75,20,1,0,0,0,T20I # 2710,24
+148,India vs Afghanistan,India,Axar Patel,3.0,1,15,1,5.0,11,0,1,0,0,T20I # 2710,18
+149,India vs Afghanistan,India,Hardik Pandya,2.0,0,13,0,6.5,8,1,1,1,0,T20I # 2710,12
+150,India vs Afghanistan,India,Kuldeep Yadav,4.0,0,32,2,8.0,11,2,2,1,1,T20I # 2710,24
+151,India vs Afghanistan,India,Ravindra Jadeja,3.0,0,20,1,6.66,4,0,1,0,0,T20I # 2710,18
+152,West Indies vs England,England,Reece Topley,3.0,0,26,0,8.66,8,2,1,4,0,T20I # 2709,18
+153,West Indies vs England,England,Mark Wood,3.0,0,36,0,12.0,7,3,2,4,0,T20I # 2709,18
+154,West Indies vs England,England,Jofra Archer,4.0,0,34,1,8.5,12,5,1,1,0,T20I # 2709,24
+155,West Indies vs England,England,Sam Curran,3.0,0,25,0,8.33,9,3,1,0,0,T20I # 2709,18
+156,West Indies vs England,England,Adil Rashid,4.0,0,21,1,5.25,10,0,1,1,0,T20I # 2709,24
+157,West Indies vs England,England,Moeen Ali,2.0,0,15,1,7.5,3,0,1,0,0,T20I # 2709,12
+158,West Indies vs England,England,Liam Livingstone,1.0,0,20,1,20.0,2,0,3,0,0,T20I # 2709,6
+159,West Indies vs England,West Indies,Akeal Hosein,4.0,0,35,0,8.75,9,4,1,1,0,T20I # 2709,24
+160,West Indies vs England,West Indies,Romario Shepherd,2.0,0,41,0,20.5,2,5,3,1,0,T20I # 2709,12
+161,West Indies vs England,West Indies,Andre Russell,2.0,0,21,1,10.5,2,0,1,2,0,T20I # 2709,12
+162,West Indies vs England,West Indies,Alzarri Joseph,2.3,0,32,0,12.8,2,2,2,0,0,T20I # 2709,15
+163,West Indies vs England,West Indies,Gudakesh Motie,4.0,0,32,0,8.0,8,4,0,0,0,T20I # 2709,24
+164,West Indies vs England,West Indies,Roston Chase,3.0,0,19,1,6.33,6,1,0,2,0,T20I # 2709,18
+165,South Africa vs U.S.A.,U.S.A.,Saurabh Netravalkar,4.0,0,21,2,5.25,12,2,0,0,0,T20I # 2708,24
+166,South Africa vs U.S.A.,U.S.A.,Ali Khan,4.0,0,45,0,11.25,7,1,4,2,0,T20I # 2708,24
+167,South Africa vs U.S.A.,U.S.A.,Jasdeep Singh,2.0,0,36,0,18.0,2,2,3,2,1,T20I # 2708,12
+168,South Africa vs U.S.A.,U.S.A.,Nosthush Kenjige,3.0,0,29,0,9.66,2,2,1,0,0,T20I # 2708,18
+169,South Africa vs U.S.A.,U.S.A.,Harmeet Singh,4.0,0,24,2,6.0,8,2,0,0,1,T20I # 2708,24
+170,South Africa vs U.S.A.,U.S.A.,Steven Taylor,2.0,0,21,0,10.5,3,2,1,0,0,T20I # 2708,12
+171,South Africa vs U.S.A.,U.S.A.,Corey Anderson,1.0,0,17,0,17.0,0,2,1,0,0,T20I # 2708,6
+172,South Africa vs U.S.A.,South Africa,Marco Jansen,3.0,0,32,0,10.66,9,3,2,2,0,T20I # 2708,18
+173,South Africa vs U.S.A.,South Africa,Aiden Markram,1.0,0,13,0,13.0,2,1,1,0,0,T20I # 2708,6
+174,South Africa vs U.S.A.,South Africa,Kagiso Rabada,4.0,0,18,3,4.5,14,2,0,1,1,T20I # 2708,24
+175,South Africa vs U.S.A.,South Africa,Keshav Maharaj,4.0,0,24,1,6.0,7,0,1,0,0,T20I # 2708,24
+176,South Africa vs U.S.A.,South Africa,Anrich Nortje,4.0,0,37,1,9.25,10,2,3,1,0,T20I # 2708,24
+177,South Africa vs U.S.A.,South Africa,Tabraiz Shamsi,4.0,0,50,1,12.5,5,3,4,2,0,T20I # 2708,24
+178,West Indies vs Afghanistan,Afghanistan,Fazalhaq Farooqi,3.0,0,38,0,12.66,4,5,1,1,1,T20I # 2703,18
+179,West Indies vs Afghanistan,Afghanistan,Azmatullah Omarzai,2.0,0,41,1,20.5,5,4,3,1,1,T20I # 2703,12
+180,West Indies vs Afghanistan,Afghanistan,Rashid Khan,4.0,0,45,0,11.25,5,3,3,1,0,T20I # 2703,24
+181,West Indies vs Afghanistan,Afghanistan,Naveen-ul-Haq,4.0,0,41,1,10.25,10,4,2,2,0,T20I # 2703,24
+182,West Indies vs Afghanistan,Afghanistan,Noor Ahmad,4.0,0,20,0,5.0,6,0,0,0,0,T20I # 2703,24
+183,West Indies vs Afghanistan,Afghanistan,Mohammad Nabi,1.0,0,15,0,15.0,2,0,2,0,0,T20I # 2703,6
+184,West Indies vs Afghanistan,Afghanistan,Gulbadin Naib,2.0,0,14,2,7.0,4,0,1,0,0,T20I # 2703,12
+185,West Indies vs Afghanistan,West Indies,Akeal Hosein,4.0,1,21,2,5.25,14,3,0,1,0,T20I # 2703,24
+186,West Indies vs Afghanistan,West Indies,Andre Russell,2.2,0,17,1,7.28,6,1,1,0,0,T20I # 2703,14
+187,West Indies vs Afghanistan,West Indies,Alzarri Joseph,3.0,0,30,1,10.0,7,4,1,1,0,T20I # 2703,18
+188,West Indies vs Afghanistan,West Indies,Gudakesh Motie,4.0,0,28,2,7.0,12,1,2,0,0,T20I # 2703,24
+189,West Indies vs Afghanistan,West Indies,Obed McCoy,3.0,0,14,3,4.66,9,1,0,0,0,T20I # 2703,18
+190,P.N.G. vs New Zealand,New Zealand,Trent Boult,4.0,0,14,2,3.5,16,2,0,0,0,T20I # 2702,24
+191,P.N.G. vs New Zealand,New Zealand,Tim Southee,4.0,0,11,2,2.75,18,1,0,2,0,T20I # 2702,24
+192,P.N.G. vs New Zealand,New Zealand,Lockie Ferguson,4.0,4,0,3,0.0,24,0,0,0,0,T20I # 2702,24
+193,P.N.G. vs New Zealand,New Zealand,Ish Sodhi,3.4,0,29,2,7.9,9,3,1,1,0,T20I # 2702,22
+194,P.N.G. vs New Zealand,New Zealand,Mitchell Santner,4.0,0,17,1,4.25,14,1,0,1,0,T20I # 2702,24
+195,P.N.G. vs New Zealand,P.N.G.,Kabua Morea,2.2,0,4,2,1.71,11,0,0,0,0,T20I # 2702,14
+196,P.N.G. vs New Zealand,P.N.G.,Alei Nao,3.0,0,22,0,7.33,9,1,2,0,0,T20I # 2702,18
+197,P.N.G. vs New Zealand,P.N.G.,Assad Vala,1.0,0,4,0,4.0,2,0,0,0,0,T20I # 2702,6
+198,P.N.G. vs New Zealand,P.N.G.,Charles Amini,1.0,0,5,0,5.0,1,0,0,0,0,T20I # 2702,6
+199,P.N.G. vs New Zealand,P.N.G.,Semo Kamea,3.0,0,23,1,7.66,8,4,0,0,0,T20I # 2702,18
+200,P.N.G. vs New Zealand,P.N.G.,Chad Soper,1.0,0,14,0,14.0,2,1,1,0,0,T20I # 2702,6
+201,P.N.G. vs New Zealand,P.N.G.,Norman Vanua,1.0,0,6,0,6.0,3,1,0,0,0,T20I # 2702,6
+202,Sri Lanka vs Netherlands,Netherlands,Vivian Kingma,3.0,0,23,1,7.66,9,3,0,3,0,T20I # 2699,18
+203,Sri Lanka vs Netherlands,Netherlands,Aryan Dutt,3.0,0,23,1,7.66,5,1,1,1,0,T20I # 2699,18
+204,Sri Lanka vs Netherlands,Netherlands,Logan van Beek,4.0,0,45,2,11.25,8,1,4,2,0,T20I # 2699,24
+205,Sri Lanka vs Netherlands,Netherlands,Paul van Meekeren,3.0,0,37,1,12.33,4,3,2,2,0,T20I # 2699,18
+206,Sri Lanka vs Netherlands,Netherlands,Tim Pringle,4.0,0,41,1,10.25,3,3,2,0,0,T20I # 2699,24
+207,Sri Lanka vs Netherlands,Netherlands,Bas de Leede,3.0,0,32,0,10.66,5,1,2,0,0,T20I # 2699,18
+208,Sri Lanka vs Netherlands,Sri Lanka,Angelo Mathews,2.0,0,20,0,10.0,7,0,2,1,1,T20I # 2699,12
+209,Sri Lanka vs Netherlands,Sri Lanka,Nuwan Thushara,3.4,0,24,3,6.54,11,2,1,2,0,T20I # 2699,22
+210,Sri Lanka vs Netherlands,Sri Lanka,Maheesh Theekshana,3.0,0,25,1,8.33,7,1,2,1,0,T20I # 2699,18
+211,Sri Lanka vs Netherlands,Sri Lanka,Wanindu Hasaranga,4.0,0,25,2,6.25,10,1,1,0,0,T20I # 2699,24
+212,Sri Lanka vs Netherlands,Sri Lanka,Dasun Shanaka,1.0,0,10,1,10.0,1,1,0,0,0,T20I # 2699,6
+213,Sri Lanka vs Netherlands,Sri Lanka,Matheesha Pathirana,3.0,0,12,2,4.0,10,0,0,1,0,T20I # 2699,18
+214,Bangladesh vs Nepal,Nepal,Sompal Kami,3.0,0,10,2,3.33,12,1,0,0,0,T20I # 2698,18
+215,Bangladesh vs Nepal,Nepal,Dipendra Singh Airee,3.3,0,22,2,6.28,11,3,0,0,0,T20I # 2698,21
+216,Bangladesh vs Nepal,Nepal,Rohit Paudel,4.0,0,20,2,5.0,11,2,0,0,0,T20I # 2698,24
+217,Bangladesh vs Nepal,Nepal,Sandeep Lamichhane,4.0,1,17,2,4.25,15,2,0,1,0,T20I # 2698,24
+218,Bangladesh vs Nepal,Nepal,Kushal Bhurtel,4.0,0,22,0,5.5,12,1,1,2,0,T20I # 2698,24
+219,Bangladesh vs Nepal,Nepal,Abinash Bohara,1.0,0,10,0,10.0,3,1,0,2,0,T20I # 2698,6
+220,Bangladesh vs Nepal,Bangladesh,Tanzim Hasan Sakib,4.0,2,7,4,1.75,21,1,0,1,0,T20I # 2698,24
+221,Bangladesh vs Nepal,Bangladesh,Taskin Ahmed,4.0,0,29,1,7.25,13,4,1,1,0,T20I # 2698,24
+222,Bangladesh vs Nepal,Bangladesh,Mustafizur Rahman,4.0,1,7,3,1.75,20,1,0,0,0,T20I # 2698,24
+223,Bangladesh vs Nepal,Bangladesh,Rishad Hossain,3.0,0,15,0,5.0,13,1,0,1,0,T20I # 2698,18
+224,Bangladesh vs Nepal,Bangladesh,Shakib Al Hasan,2.2,0,9,2,3.85,7,0,0,0,0,T20I # 2698,14
+225,Bangladesh vs Nepal,Bangladesh,Mahmudullah,2.0,0,15,0,7.5,6,1,1,0,0,T20I # 2698,12
+226,Ireland vs Pakistan,Pakistan,Shaheen Shah Afridi,4.0,0,22,3,5.5,16,3,0,1,0,T20I # 2697,24
+227,Ireland vs Pakistan,Pakistan,Mohammad Amir,4.0,1,11,2,2.75,20,2,0,0,0,T20I # 2697,24
+228,Ireland vs Pakistan,Pakistan,Haris Rauf,4.0,0,17,1,4.25,16,1,1,0,0,T20I # 2697,24
+229,Ireland vs Pakistan,Pakistan,Abbas Afridi,3.0,0,31,0,10.33,5,1,2,2,0,T20I # 2697,18
+230,Ireland vs Pakistan,Pakistan,Shadab Khan,1.0,0,11,0,11.0,3,1,1,0,0,T20I # 2697,6
+231,Ireland vs Pakistan,Pakistan,Imad Wasim,4.0,0,8,3,2.0,17,0,0,0,0,T20I # 2697,24
+232,Ireland vs Pakistan,Ireland,Mark Adair,4.0,0,24,1,6.0,14,1,1,1,0,T20I # 2697,24
+233,Ireland vs Pakistan,Ireland,Josh Little,3.0,0,17,0,5.66,11,3,0,0,0,T20I # 2697,18
+234,Ireland vs Pakistan,Ireland,Barry McCarthy,4.0,1,15,3,3.75,15,1,0,1,0,T20I # 2697,24
+235,Ireland vs Pakistan,Ireland,Ben White,2.0,0,11,1,5.5,5,1,0,0,0,T20I # 2697,12
+236,Ireland vs Pakistan,Ireland,Curtis Campher,4.0,0,24,2,6.0,12,2,1,0,0,T20I # 2697,24
+237,Ireland vs Pakistan,Ireland,Gareth Delany,1.5,0,19,0,10.36,3,0,2,1,0,T20I # 2697,11
+238,Scotland vs Australia,Australia,Ashton Agar,4.0,0,39,1,9.75,6,0,3,1,0,T20I # 2689,24
+239,Scotland vs Australia,Australia,Mitchell Starc,4.0,0,31,0,7.75,10,1,2,1,0,T20I # 2689,24
+240,Scotland vs Australia,Australia,Nathan Ellis,4.0,0,34,1,8.5,7,2,1,3,0,T20I # 2689,24
+241,Scotland vs Australia,Australia,Glenn Maxwell,4.0,0,44,2,11.0,8,2,4,1,0,T20I # 2689,24
+242,Scotland vs Australia,Australia,Adam Zampa,4.0,0,30,1,7.5,8,1,2,0,0,T20I # 2689,24
+243,Scotland vs Australia,Scotland,Michael Leask,4.0,0,39,0,9.75,8,2,3,0,0,T20I # 2689,24
+244,Scotland vs Australia,Scotland,Brad Wheal,3.4,1,28,1,7.63,12,4,1,0,0,T20I # 2689,22
+245,Scotland vs Australia,Scotland,Mark Watt,4.0,0,34,2,8.5,10,6,0,1,0,T20I # 2689,24
+246,Scotland vs Australia,Scotland,Chris Sole,3.0,0,33,0,11.0,4,3,1,1,0,T20I # 2689,18
+247,Scotland vs Australia,Scotland,Safyaan Sharif,4.0,0,42,2,10.5,8,2,3,3,0,T20I # 2689,24
+248,Scotland vs Australia,Scotland,Chris Greaves,1.0,0,4,0,4.0,2,0,0,0,0,T20I # 2689,6
+249,England vs Namibia,Namibia,David Wiese,2.0,0,6,1,3.0,9,1,0,0,0,T20I # 2688,12
+250,England vs Namibia,Namibia,Ruben Trumpelmann,2.0,0,31,2,15.5,3,2,3,1,0,T20I # 2688,12
+251,England vs Namibia,Namibia,Bernard Scholtz,2.0,0,24,1,12.0,4,1,2,0,0,T20I # 2688,12
+252,England vs Namibia,Namibia,Gerhard Erasmus,2.0,0,26,0,13.0,2,2,1,0,0,T20I # 2688,12
+253,England vs Namibia,Namibia,Jack Brassell,2.0,0,32,0,16.0,2,3,2,0,0,T20I # 2688,12
+254,England vs Namibia,England,Reece Topley,2.0,0,6,0,3.0,8,0,0,0,1,T20I # 2688,12
+255,England vs Namibia,England,Jofra Archer,2.0,0,15,1,7.5,7,1,1,1,0,T20I # 2688,12
+256,England vs Namibia,England,Sam Curran,2.0,0,13,0,6.5,5,2,0,0,0,T20I # 2688,12
+257,England vs Namibia,England,Chris Jordan,2.0,0,19,1,9.5,4,0,2,0,0,T20I # 2688,12
+258,England vs Namibia,England,Adil Rashid,2.0,0,29,0,14.5,3,1,3,1,0,T20I # 2688,12
+259,Uganda vs New Zealand,New Zealand,Trent Boult,4.0,1,7,2,1.75,20,1,0,0,0,T20I # 2682,24
+260,Uganda vs New Zealand,New Zealand,Tim Southee,4.0,1,4,3,1.0,20,0,0,0,0,T20I # 2682,24
+261,Uganda vs New Zealand,New Zealand,Mitchell Santner,3.4,0,8,2,2.18,17,0,0,3,0,T20I # 2682,22
+262,Uganda vs New Zealand,New Zealand,Lockie Ferguson,4.0,0,9,1,2.25,20,1,0,2,0,T20I # 2682,24
+263,Uganda vs New Zealand,New Zealand,Rachin Ravindra,3.0,1,9,2,3.0,12,1,0,0,0,T20I # 2682,18
+264,Uganda vs New Zealand,Uganda,Cosmas Kyewuta,2.0,0,13,0,6.5,6,1,0,2,1,T20I # 2682,12
+265,Uganda vs New Zealand,Uganda,Juma Miyagi,2.2,0,16,0,6.85,7,3,0,0,0,T20I # 2682,14
+266,Uganda vs New Zealand,Uganda,Riazat Ali Shah,1.0,0,10,1,10.0,3,1,0,4,0,T20I # 2682,6
+267,South Africa vs Nepal,Nepal,Sompal Kami,2.0,1,6,0,3.0,10,1,0,1,0,T20I # 2681,12
+268,South Africa vs Nepal,Nepal,Dipendra Singh Airee,4.0,0,21,3,5.25,9,1,0,1,0,T20I # 2681,24
+269,South Africa vs Nepal,Nepal,Karan KC,1.0,0,9,0,9.0,3,2,0,0,0,T20I # 2681,6
+270,South Africa vs Nepal,Nepal,Kushal Malla,2.0,0,17,0,8.5,6,2,1,0,0,T20I # 2681,12
+271,South Africa vs Nepal,Nepal,Sandeep Lamichhane,4.0,0,18,0,4.5,11,1,0,0,0,T20I # 2681,24
+272,South Africa vs Nepal,Nepal,Kushal Bhurtel,4.0,0,19,4,4.75,12,0,1,1,0,T20I # 2681,24
+273,South Africa vs Nepal,Nepal,Abinash Bohara,3.0,0,19,0,6.33,8,3,0,0,0,T20I # 2681,18
+274,South Africa vs Nepal,South Africa,Marco Jansen,4.0,0,16,0,4.0,16,1,1,0,0,T20I # 2681,24
+275,South Africa vs Nepal,South Africa,Kagiso Rabada,2.0,0,17,0,8.5,6,2,1,0,0,T20I # 2681,12
+276,South Africa vs Nepal,South Africa,Ottneil Baartman,4.0,0,20,0,5.0,15,3,0,0,0,T20I # 2681,24
+277,South Africa vs Nepal,South Africa,Anrich Nortje,4.0,0,27,1,6.75,15,3,1,3,0,T20I # 2681,24
+278,South Africa vs Nepal,South Africa,Tabraiz Shamsi,4.0,0,19,4,4.75,12,0,1,1,0,T20I # 2681,24
+279,South Africa vs Nepal,South Africa,Aiden Markram,2.0,0,8,1,4.0,4,0,0,0,0,T20I # 2681,12
+280,P.N.G. vs Afghanistan,Afghanistan,Fazalhaq Farooqi,4.0,0,16,3,4.0,17,1,0,1,0,T20I # 2679,24
+281,P.N.G. vs Afghanistan,Afghanistan,Mohammad Nabi,1.0,0,9,0,9.0,1,1,0,0,0,T20I # 2679,6
+282,P.N.G. vs Afghanistan,Afghanistan,Naveen-ul-Haq,2.5,0,4,2,1.41,14,0,0,1,0,T20I # 2679,17
+283,P.N.G. vs Afghanistan,Afghanistan,Rashid Khan,4.0,0,25,0,6.25,10,1,0,1,0,T20I # 2679,24
+284,P.N.G. vs Afghanistan,Afghanistan,Noor Ahmad,4.0,0,14,1,3.5,15,1,0,1,0,T20I # 2679,24
+285,P.N.G. vs Afghanistan,Afghanistan,Azmatullah Omarzai,2.0,1,5,0,2.5,10,1,0,0,0,T20I # 2679,12
+286,P.N.G. vs Afghanistan,Afghanistan,Karim Janat,2.0,0,10,0,5.0,7,1,0,1,0,T20I # 2679,12
+287,P.N.G. vs Afghanistan,P.N.G.,Alei Nao,4.0,0,26,1,6.5,14,0,2,3,0,T20I # 2679,24
+288,P.N.G. vs Afghanistan,P.N.G.,Semo Kamea,3.0,0,16,1,5.33,10,2,0,2,0,T20I # 2679,18
+289,P.N.G. vs Afghanistan,P.N.G.,Chad Soper,2.1,0,19,0,8.76,5,1,1,0,0,T20I # 2679,13
+290,P.N.G. vs Afghanistan,P.N.G.,Norman Vanua,3.0,0,18,1,6.0,7,2,0,0,0,T20I # 2679,18
+291,P.N.G. vs Afghanistan,P.N.G.,John Kariko,3.0,0,15,0,5.0,9,2,0,0,0,T20I # 2679,18
+292,Oman vs England,England,Reece Topley,3.0,0,12,0,4.0,11,0,1,0,0,T20I # 2678,18
+293,Oman vs England,England,Jofra Archer,3.2,1,12,3,3.6,15,2,0,1,0,T20I # 2678,20
+294,Oman vs England,England,Mark Wood,3.0,0,12,3,4.0,10,1,0,0,0,T20I # 2678,18
+295,Oman vs England,England,Adil Rashid,4.0,0,11,4,2.75,20,1,0,3,0,T20I # 2678,24
+296,Oman vs England,Oman,Bilal Khan,2.0,0,36,1,18.0,3,4,3,0,0,T20I # 2678,12
+297,Oman vs England,Oman,Kaleemullah,1.0,0,10,1,10.0,4,2,0,0,1,T20I # 2678,6
+298,Oman vs England,Oman,Fayyaz Butt,0.1,0,4,0,24.0,0,1,0,0,0,T20I # 2678,1
+299,Bangladesh vs Netherlands,Netherlands,Vivian Kingma,2.0,0,20,0,10.0,6,2,1,1,0,T20I # 2677,12
+300,Bangladesh vs Netherlands,Netherlands,Aryan Dutt,4.0,0,17,2,4.25,12,1,0,1,0,T20I # 2677,24
+301,Bangladesh vs Netherlands,Netherlands,Paul van Meekeren,4.0,0,15,2,3.75,13,1,0,0,0,T20I # 2677,24
+302,Bangladesh vs Netherlands,Netherlands,Logan van Beek,4.0,0,43,0,10.75,9,7,1,1,0,T20I # 2677,24
+303,Bangladesh vs Netherlands,Netherlands,Bas de Leede,3.0,0,31,0,10.33,5,5,0,0,0,T20I # 2677,18
+304,Bangladesh vs Netherlands,Netherlands,Tim Pringle,3.0,0,26,1,8.66,6,3,1,0,0,T20I # 2677,18
+305,Bangladesh vs Netherlands,Bangladesh,Mustafizur Rahman,4.0,0,12,1,3.0,17,1,0,1,0,T20I # 2677,24
+306,Bangladesh vs Netherlands,Bangladesh,Tanzim Hasan Sakib,3.0,0,23,1,7.66,9,4,0,0,0,T20I # 2677,18
+307,Bangladesh vs Netherlands,Bangladesh,Taskin Ahmed,4.0,0,30,2,7.5,13,3,2,0,0,T20I # 2677,24
+308,Bangladesh vs Netherlands,Bangladesh,Shakib Al Hasan,4.0,0,29,0,7.25,10,1,2,0,0,T20I # 2677,24
+309,Bangladesh vs Netherlands,Bangladesh,Rishad Hossain,4.0,0,33,3,8.25,11,2,2,0,0,T20I # 2677,24
+310,Bangladesh vs Netherlands,Bangladesh,Mahmudullah,1.0,0,6,1,6.0,3,1,0,0,0,T20I # 2677,6
+311,West Indies vs New Zealand,New Zealand,Trent Boult,4.0,1,16,3,4.0,15,2,0,0,0,T20I # 2672,24
+312,West Indies vs New Zealand,New Zealand,Tim Southee,4.0,0,21,2,5.25,14,2,1,0,0,T20I # 2672,24
+313,West Indies vs New Zealand,New Zealand,Lockie Ferguson,4.0,0,27,2,6.75,11,2,1,2,0,T20I # 2672,24
+314,West Indies vs New Zealand,New Zealand,James Neesham,4.0,0,27,1,6.75,9,0,2,1,0,T20I # 2672,24
+315,West Indies vs New Zealand,New Zealand,Glenn Phillips,1.0,0,9,0,9.0,2,0,1,0,0,T20I # 2672,6
+316,West Indies vs New Zealand,New Zealand,Mitchell Santner,2.0,0,27,1,13.5,4,2,2,0,0,T20I # 2672,12
+317,West Indies vs New Zealand,New Zealand,Daryl Mitchell,1.0,0,19,0,19.0,2,0,3,0,0,T20I # 2672,6
+318,West Indies vs New Zealand,West Indies,Akeal Hosein,4.0,0,21,1,5.25,11,1,1,0,0,T20I # 2672,24
+319,West Indies vs New Zealand,West Indies,Romario Shepherd,3.0,0,36,0,12.0,7,1,4,2,0,T20I # 2672,18
+320,West Indies vs New Zealand,West Indies,Andre Russell,4.0,0,30,1,7.5,11,2,2,0,0,T20I # 2672,24
+321,West Indies vs New Zealand,West Indies,Alzarri Joseph,4.0,0,19,4,4.75,13,2,0,0,0,T20I # 2672,24
+322,West Indies vs New Zealand,West Indies,Gudakesh Motie,4.0,0,25,3,6.25,11,1,1,0,0,T20I # 2672,24
+323,West Indies vs New Zealand,West Indies,Roston Chase,1.0,0,4,0,4.0,3,0,0,1,0,T20I # 2672,6
+324,U.S.A. vs India,India,Arshdeep Singh,4.0,0,9,4,2.25,17,0,0,1,0,T20I # 2671,24
+325,U.S.A. vs India,India,Mohammed Siraj,4.0,0,25,0,6.25,11,1,1,0,0,T20I # 2671,24
+326,U.S.A. vs India,India,Jasprit Bumrah,4.0,0,25,0,6.25,14,1,1,1,0,T20I # 2671,24
+327,U.S.A. vs India,India,Hardik Pandya,4.0,1,14,2,3.5,19,1,1,0,0,T20I # 2671,24
+328,U.S.A. vs India,India,Shivam Dube,1.0,0,11,0,11.0,3,1,1,0,0,T20I # 2671,6
+329,U.S.A. vs India,India,Axar Patel,3.0,0,25,1,8.33,5,0,2,1,0,T20I # 2671,18
+330,U.S.A. vs India,U.S.A.,Saurabh Netravalkar,4.0,0,18,2,4.5,13,0,1,0,0,T20I # 2671,24
+331,U.S.A. vs India,U.S.A.,Ali Khan,3.2,0,21,1,6.3,8,2,0,1,0,T20I # 2671,20
+332,U.S.A. vs India,U.S.A.,Jasdeep Singh,4.0,0,24,0,6.0,11,1,1,0,1,T20I # 2671,24
+333,U.S.A. vs India,U.S.A.,Shadley van Schalkwyk,4.0,0,25,0,6.25,8,1,1,0,0,T20I # 2671,24
+334,U.S.A. vs India,U.S.A.,Corey Anderson,3.0,0,17,0,5.66,8,0,1,1,0,T20I # 2671,18
+335,Namibia vs Australia,Australia,Josh Hazlewood,4.0,0,18,2,4.5,16,2,0,1,0,T20I # 2666,24
+336,Namibia vs Australia,Australia,Marcus Stoinis,3.0,0,9,2,3.0,14,1,0,2,0,T20I # 2666,18
+337,Namibia vs Australia,Australia,Pat Cummins,3.0,1,16,1,5.33,11,1,1,0,0,T20I # 2666,18
+338,Namibia vs Australia,Australia,Adam Zampa,4.0,0,12,4,3.0,17,0,1,0,0,T20I # 2666,24
+339,Namibia vs Australia,Australia,Nathan Ellis,3.0,1,12,1,4.0,13,2,0,0,0,T20I # 2666,18
+340,Namibia vs Australia,Namibia,Ruben Trumpelmann,2.0,0,19,0,9.5,5,4,0,0,0,T20I # 2666,12
+341,Namibia vs Australia,Namibia,David Wiese,1.0,0,15,1,15.0,3,2,1,1,0,T20I # 2666,6
+342,Namibia vs Australia,Namibia,Ben Shikongo,1.0,0,19,0,19.0,1,3,1,0,0,T20I # 2666,6
+343,Namibia vs Australia,Namibia,Gerhard Erasmus,1.0,0,6,0,6.0,5,0,1,0,0,T20I # 2666,6
+344,Namibia vs Australia,Namibia,Jack Brassell,0.4,0,14,0,21.0,1,2,1,0,0,T20I # 2666,4
+345,Canada vs Pakistan,Pakistan,Shaheen Shah Afridi,4.0,0,21,1,5.25,16,2,1,1,0,T20I # 2665,24
+346,Canada vs Pakistan,Pakistan,Naseem Shah,4.0,0,24,1,6.0,13,2,1,1,0,T20I # 2665,24
+347,Canada vs Pakistan,Pakistan,Mohammad Amir,4.0,0,13,2,3.25,17,2,0,0,0,T20I # 2665,24
+348,Canada vs Pakistan,Pakistan,Haris Rauf,4.0,0,26,2,6.5,14,1,1,3,0,T20I # 2665,24
+349,Canada vs Pakistan,Pakistan,Imad Wasim,4.0,0,19,0,4.75,16,0,2,1,0,T20I # 2665,24
+350,Canada vs Pakistan,Canada,Kaleem Sana,3.0,0,21,0,7.0,8,1,0,1,0,T20I # 2665,18
+351,Canada vs Pakistan,Canada,Jeremy Gordon,3.3,0,17,1,4.85,11,1,0,1,0,T20I # 2665,21
+352,Canada vs Pakistan,Canada,Dilon Heyliger,4.0,0,18,2,4.5,10,0,0,1,0,T20I # 2665,24
+353,Canada vs Pakistan,Canada,Saad Bin Zafar,4.0,0,23,0,5.75,7,1,0,1,0,T20I # 2665,24
+354,Canada vs Pakistan,Canada,Junaid Siddiqui,3.0,0,28,0,9.33,3,0,2,1,0,T20I # 2665,18
+355,South Africa vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,4.0,0,18,3,4.5,17,1,1,2,0,T20I # 2664,24
+356,South Africa vs Bangladesh,Bangladesh,Taskin Ahmed,4.0,0,19,2,4.75,14,1,1,0,0,T20I # 2664,24
+357,South Africa vs Bangladesh,Bangladesh,Mustafizur Rahman,4.0,0,18,0,4.5,16,1,1,1,0,T20I # 2664,24
+358,South Africa vs Bangladesh,Bangladesh,Rishad Hossain,4.0,0,32,1,8.0,10,2,2,0,0,T20I # 2664,24
+359,South Africa vs Bangladesh,Bangladesh,Shakib Al Hasan,1.0,0,6,0,6.0,1,0,0,0,0,T20I # 2664,6
+360,South Africa vs Bangladesh,Bangladesh,Mahmudullah,3.0,0,17,0,5.66,8,0,1,0,0,T20I # 2664,18
+361,South Africa vs Bangladesh,South Africa,Marco Jansen,4.0,0,17,0,4.25,17,2,0,2,0,T20I # 2664,24
+362,South Africa vs Bangladesh,South Africa,Kagiso Rabada,4.0,0,19,2,4.75,12,2,0,0,0,T20I # 2664,24
+363,South Africa vs Bangladesh,South Africa,Ottneil Baartman,4.0,0,27,0,6.75,11,2,1,0,0,T20I # 2664,24
+364,South Africa vs Bangladesh,South Africa,Keshav Maharaj,4.0,0,27,3,6.75,12,0,2,2,0,T20I # 2664,24
+365,South Africa vs Bangladesh,South Africa,Anrich Nortje,4.0,0,17,2,4.25,14,1,0,1,1,T20I # 2664,24
+366,Oman vs Scotland,Scotland,Mark Watt,4.0,0,25,1,6.25,8,2,0,2,0,T20I # 2659,24
+367,Oman vs Scotland,Scotland,Brad Wheal,4.0,0,19,1,4.75,12,2,0,0,0,T20I # 2659,24
+368,Oman vs Scotland,Scotland,Chris Sole,4.0,0,41,1,10.25,7,2,3,0,0,T20I # 2659,24
+369,Oman vs Scotland,Scotland,Safyaan Sharif,4.0,0,40,2,10.0,6,6,0,0,0,T20I # 2659,24
+370,Oman vs Scotland,Scotland,Michael Leask,3.0,0,21,0,7.0,8,1,1,1,0,T20I # 2659,18
+371,Oman vs Scotland,Scotland,Chris Greaves,1.0,0,2,1,2.0,4,0,0,0,0,T20I # 2659,6
+372,Oman vs Scotland,Oman,Bilal Khan,2.1,0,12,1,5.53,8,2,0,0,0,T20I # 2659,13
+373,Oman vs Scotland,Oman,Shakeel Ahmed,2.0,0,23,0,11.5,5,2,2,0,0,T20I # 2659,12
+374,Oman vs Scotland,Oman,Kaleemullah,2.0,0,17,0,8.5,6,2,1,0,0,T20I # 2659,12
+375,Oman vs Scotland,Oman,Aqib Ilyas,3.0,0,41,1,13.66,6,4,3,0,0,T20I # 2659,18
+376,Oman vs Scotland,Oman,Mehran Khan,1.0,0,16,1,16.0,3,1,1,1,0,T20I # 2659,6
+377,Oman vs Scotland,Oman,Zeeshan Maqsood,2.0,0,22,0,11.0,4,2,1,0,0,T20I # 2659,12
+378,Oman vs Scotland,Oman,Ayaan Khan,1.0,0,20,0,20.0,1,0,3,0,0,T20I # 2659,6
+379,India vs Pakistan,Pakistan,Shaheen Shah Afridi,4.0,0,29,1,7.25,14,1,2,1,0,T20I # 2658,24
+380,India vs Pakistan,Pakistan,Naseem Shah,4.0,0,21,3,5.25,15,3,0,1,1,T20I # 2658,24
+381,India vs Pakistan,Pakistan,Mohammad Amir,4.0,0,23,2,5.75,15,3,0,0,0,T20I # 2658,24
+382,India vs Pakistan,Pakistan,Iftikhar Ahmed,1.0,0,7,0,7.0,3,1,0,1,0,T20I # 2658,6
+383,India vs Pakistan,Pakistan,Imad Wasim,3.0,0,17,0,5.66,6,1,0,1,0,T20I # 2658,18
+384,India vs Pakistan,Pakistan,Haris Rauf,3.0,0,21,3,7.0,10,4,0,0,0,T20I # 2658,18
+385,India vs Pakistan,India,Arshdeep Singh,4.0,0,31,1,7.75,11,4,0,1,0,T20I # 2658,24
+386,India vs Pakistan,India,Mohammed Siraj,4.0,0,19,0,4.75,11,1,0,1,1,T20I # 2658,24
+387,India vs Pakistan,India,Jasprit Bumrah,4.0,0,14,3,3.5,15,1,0,0,0,T20I # 2658,24
+388,India vs Pakistan,India,Hardik Pandya,4.0,0,24,2,6.0,11,1,1,1,0,T20I # 2658,24
+389,India vs Pakistan,India,Ravindra Jadeja,2.0,0,10,0,5.0,5,1,0,0,0,T20I # 2658,12
+390,India vs Pakistan,India,Axar Patel,2.0,0,11,1,5.5,6,0,1,0,0,T20I # 2658,12
+391,West Indies vs Uganda,Uganda,Alpesh Ramjani,3.0,0,16,1,5.33,11,1,1,0,0,T20I # 2651,18
+392,West Indies vs Uganda,Uganda,Cosmas Kyewuta,4.0,0,42,1,10.5,15,7,1,2,1,T20I # 2651,24
+393,West Indies vs Uganda,Uganda,Juma Miyagi,3.0,0,29,0,9.66,6,3,1,0,1,T20I # 2651,18
+394,West Indies vs Uganda,Uganda,Frank Nsubuga,3.0,0,29,0,9.66,4,1,2,0,1,T20I # 2651,18
+395,West Indies vs Uganda,Uganda,Brian Masaba,4.0,0,31,2,7.75,10,1,2,2,0,T20I # 2651,24
+396,West Indies vs Uganda,Uganda,Dinesh Nakrani,3.0,0,20,1,6.66,5,2,0,0,0,T20I # 2651,18
+397,West Indies vs Uganda,West Indies,Akeal Hosein,4.0,0,11,5,2.75,19,2,0,0,0,T20I # 2651,24
+398,West Indies vs Uganda,West Indies,Romario Shepherd,2.0,0,9,1,4.5,6,1,0,0,0,T20I # 2651,12
+399,West Indies vs Uganda,West Indies,Andre Russell,1.0,0,4,1,4.0,4,0,0,1,0,T20I # 2651,6
+400,West Indies vs Uganda,West Indies,Alzarri Joseph,3.0,0,6,2,2.0,14,0,0,1,0,T20I # 2651,18
+401,West Indies vs Uganda,West Indies,Gudakesh Motie,2.0,0,6,1,3.0,8,0,0,0,0,T20I # 2651,12
+402,Australia vs England,England,Moeen Ali,2.0,0,18,1,9.0,6,2,1,0,0,T20I # 2650,12
+403,Australia vs England,England,Will Jacks,1.0,0,22,0,22.0,1,0,3,0,0,T20I # 2650,6
+404,Australia vs England,England,Jofra Archer,4.0,0,28,1,7.0,11,2,1,1,0,T20I # 2650,24
+405,Australia vs England,England,Mark Wood,3.0,0,32,0,10.66,9,2,3,0,0,T20I # 2650,18
+406,Australia vs England,England,Adil Rashid,4.0,0,41,1,10.25,7,4,2,1,0,T20I # 2650,24
+407,Australia vs England,England,Chris Jordan,4.0,0,44,2,11.0,6,4,2,4,0,T20I # 2650,24
+408,Australia vs England,England,Liam Livingstone,2.0,0,15,1,7.5,2,0,1,0,0,T20I # 2650,12
+409,Australia vs England,Australia,Mitchell Starc,3.0,0,37,0,12.33,7,3,3,2,0,T20I # 2650,18
+410,Australia vs England,Australia,Josh Hazlewood,4.0,0,28,1,7.0,10,4,0,0,0,T20I # 2650,24
+411,Australia vs England,Australia,Pat Cummins,4.0,0,23,2,5.75,10,2,0,1,0,T20I # 2650,24
+412,Australia vs England,Australia,Marcus Stoinis,3.0,0,24,1,8.0,6,3,0,2,0,T20I # 2650,18
+413,Australia vs England,Australia,Adam Zampa,4.0,0,28,2,7.0,9,0,2,0,0,T20I # 2650,24
+414,Australia vs England,Australia,Glenn Maxwell,2.0,0,22,0,11.0,5,0,3,0,0,T20I # 2650,12
+415,Netherlands vs South Africa,South Africa,Marco Jansen,4.0,0,20,2,5.0,15,2,0,1,1,T20I # 2649,24
+416,Netherlands vs South Africa,South Africa,Kagiso Rabada,4.0,0,27,0,6.75,12,2,1,1,0,T20I # 2649,24
+417,Netherlands vs South Africa,South Africa,Ottneil Baartman,4.0,0,11,4,2.75,17,1,0,1,0,T20I # 2649,24
+418,Netherlands vs South Africa,South Africa,Anrich Nortje,4.0,0,19,2,4.75,14,0,1,1,1,T20I # 2649,24
+419,Netherlands vs South Africa,South Africa,Keshav Maharaj,4.0,0,24,0,6.0,6,1,0,1,0,T20I # 2649,24
+420,Netherlands vs South Africa,Netherlands,Vivian Kingma,4.0,1,12,2,3.0,18,0,0,1,0,T20I # 2649,24
+421,Netherlands vs South Africa,Netherlands,Logan van Beek,4.0,1,21,2,5.25,13,1,1,0,0,T20I # 2649,24
+422,Netherlands vs South Africa,Netherlands,Paul van Meekeren,4.0,1,13,0,3.25,17,1,0,1,0,T20I # 2649,24
+423,Netherlands vs South Africa,Netherlands,Bas de Leede,3.5,0,34,1,8.86,12,2,2,0,1,T20I # 2649,23
+424,Netherlands vs South Africa,Netherlands,Tim Pringle,2.0,0,14,0,7.0,4,0,1,0,0,T20I # 2649,12
+425,Netherlands vs South Africa,Netherlands,Vikramjit Singh,1.0,0,11,0,11.0,0,0,1,0,0,T20I # 2649,6
+426,Sri Lanka vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,4.0,0,24,1,6.0,14,2,1,0,0,T20I # 2646,24
+427,Sri Lanka vs Bangladesh,Bangladesh,Shakib Al Hasan,3.0,0,30,0,10.0,5,4,0,0,0,T20I # 2646,18
+428,Sri Lanka vs Bangladesh,Bangladesh,Taskin Ahmed,4.0,0,25,2,6.25,12,3,0,1,0,T20I # 2646,24
+429,Sri Lanka vs Bangladesh,Bangladesh,Mustafizur Rahman,4.0,0,17,3,4.25,14,2,0,1,0,T20I # 2646,24
+430,Sri Lanka vs Bangladesh,Bangladesh,Rishad Hossain,4.0,0,22,3,5.5,10,1,1,0,0,T20I # 2646,24
+431,Sri Lanka vs Bangladesh,Bangladesh,Mahmudullah,1.0,0,4,0,4.0,2,0,0,0,0,T20I # 2646,6
+432,Sri Lanka vs Bangladesh,Sri Lanka,Dhananjaya de Silva,2.0,0,11,1,5.5,3,0,0,1,0,T20I # 2646,12
+433,Sri Lanka vs Bangladesh,Sri Lanka,Nuwan Thushara,4.0,0,18,4,4.5,14,1,0,5,0,T20I # 2646,24
+434,Sri Lanka vs Bangladesh,Sri Lanka,Maheesh Theekshana,4.0,0,25,0,6.25,8,1,0,3,0,T20I # 2646,24
+435,Sri Lanka vs Bangladesh,Sri Lanka,Wanindu Hasaranga,4.0,0,32,2,8.0,12,0,4,0,0,T20I # 2646,24
+436,Sri Lanka vs Bangladesh,Sri Lanka,Matheesha Pathirana,4.0,0,27,1,6.75,11,1,1,2,0,T20I # 2646,24
+437,Sri Lanka vs Bangladesh,Sri Lanka,Dasun Shanaka,1.0,0,11,0,11.0,2,0,1,1,0,T20I # 2646,6
+438,Afghanistan vs New Zealand,New Zealand,Trent Boult,4.0,0,22,2,5.5,12,1,1,0,0,T20I # 2645,24
+439,Afghanistan vs New Zealand,New Zealand,Matt Henry,4.0,0,37,2,9.25,10,3,2,0,0,T20I # 2645,24
+440,Afghanistan vs New Zealand,New Zealand,Mitchell Santner,4.0,0,24,0,6.0,11,3,0,0,0,T20I # 2645,24
+441,Afghanistan vs New Zealand,New Zealand,Michael Bracewell,3.0,0,27,0,9.0,6,0,3,0,0,T20I # 2645,18
+442,Afghanistan vs New Zealand,New Zealand,Lockie Ferguson,4.0,0,28,1,7.0,12,3,1,0,0,T20I # 2645,24
+443,Afghanistan vs New Zealand,New Zealand,Daryl Mitchell,1.0,0,16,0,16.0,0,0,2,0,0,T20I # 2645,6
+444,Afghanistan vs New Zealand,Afghanistan,Fazalhaq Farooqi,3.2,0,17,4,5.1,15,2,0,3,0,T20I # 2645,20
+445,Afghanistan vs New Zealand,Afghanistan,Mohammad Nabi,4.0,0,16,2,4.0,11,0,0,0,0,T20I # 2645,24
+446,Afghanistan vs New Zealand,Afghanistan,Naveen-ul-Haq,3.0,0,10,0,3.33,12,1,0,0,0,T20I # 2645,18
+447,Afghanistan vs New Zealand,Afghanistan,Rashid Khan,4.0,0,17,4,4.25,16,2,0,2,0,T20I # 2645,24
+448,Afghanistan vs New Zealand,Afghanistan,Noor Ahmad,1.0,0,10,0,10.0,1,0,1,0,0,T20I # 2645,6
+449,Canada vs Ireland,Ireland,Mark Adair,4.0,0,23,1,5.75,10,2,0,1,0,T20I # 2644,24
+450,Canada vs Ireland,Ireland,Josh Little,4.0,0,37,0,9.25,6,4,0,2,0,T20I # 2644,24
+451,Canada vs Ireland,Ireland,Craig Young,4.0,0,32,2,8.0,13,3,2,1,0,T20I # 2644,24
+452,Canada vs Ireland,Ireland,Barry McCarthy,4.0,0,24,2,6.0,12,4,0,0,0,T20I # 2644,24
+453,Canada vs Ireland,Ireland,Gareth Delany,2.0,0,10,1,5.0,5,0,0,0,0,T20I # 2644,12
+454,Canada vs Ireland,Ireland,Curtis Campher,2.0,0,11,0,5.5,4,0,0,1,0,T20I # 2644,12
+455,Canada vs Ireland,Canada,Kaleem Sana,4.0,0,38,0,9.5,11,4,1,3,0,T20I # 2644,24
+456,Canada vs Ireland,Canada,Jeremy Gordon,4.0,0,16,2,4.0,14,1,0,1,0,T20I # 2644,24
+457,Canada vs Ireland,Canada,Junaid Siddiqui,4.0,0,27,1,6.75,9,1,1,0,0,T20I # 2644,24
+458,Canada vs Ireland,Canada,Saad Bin Zafar,4.0,0,22,1,5.5,7,0,0,0,0,T20I # 2644,24
+459,Canada vs Ireland,Canada,Dilon Heyliger,4.0,0,18,2,4.5,12,1,0,1,0,T20I # 2644,24
+460,Namibia vs Scotland,Scotland,Brad Wheal,4.0,0,33,3,8.25,8,2,1,1,1,T20I # 2643,24
+461,Namibia vs Scotland,Scotland,Brad Currie,4.0,0,16,2,4.0,12,1,0,0,0,T20I # 2643,24
+462,Namibia vs Scotland,Scotland,Chris Sole,3.0,0,23,1,7.66,7,3,0,1,1,T20I # 2643,18
+463,Namibia vs Scotland,Scotland,Mark Watt,4.0,0,39,0,9.75,8,4,2,0,0,T20I # 2643,24
+464,Namibia vs Scotland,Scotland,Chris Greaves,3.0,0,24,1,8.0,5,1,1,0,0,T20I # 2643,18
+465,Namibia vs Scotland,Scotland,Michael Leask,2.0,0,16,1,8.0,4,1,1,0,0,T20I # 2643,12
+466,Namibia vs Scotland,Namibia,Ruben Trumpelmann,4.0,0,36,1,9.0,9,1,1,4,1,T20I # 2643,24
+467,Namibia vs Scotland,Namibia,David Wiese,3.3,0,30,0,8.57,10,1,3,0,0,T20I # 2643,21
+468,Namibia vs Scotland,Namibia,Tangeni Lungameni,3.0,0,39,1,13.0,4,3,2,1,0,T20I # 2643,18
+469,Namibia vs Scotland,Namibia,Bernard Scholtz,4.0,0,20,1,5.0,7,1,0,0,0,T20I # 2643,24
+470,Namibia vs Scotland,Namibia,Gerhard Erasmus,4.0,0,29,2,7.25,9,1,1,2,0,T20I # 2643,24
+471,Pakistan vs U.S.A.,U.S.A.,Nosthush Kenjige,4.0,0,30,3,7.5,10,1,2,0,0,T20I # 2642,24
+472,Pakistan vs U.S.A.,U.S.A.,Saurabh Netravalkar,4.0,0,18,2,4.5,13,0,1,0,0,T20I # 2642,24
+473,Pakistan vs U.S.A.,U.S.A.,Ali Khan,4.0,0,30,1,7.5,8,2,1,2,0,T20I # 2642,24
+474,Pakistan vs U.S.A.,U.S.A.,Harmeet Singh,4.0,0,34,0,8.5,9,2,2,1,0,T20I # 2642,24
+475,Pakistan vs U.S.A.,U.S.A.,Jasdeep Singh,3.0,0,37,1,12.33,4,2,3,1,0,T20I # 2642,18
+476,Pakistan vs U.S.A.,U.S.A.,Corey Anderson,1.0,0,6,0,6.0,3,1,0,0,0,T20I # 2642,6
+477,Pakistan vs U.S.A.,Pakistan,Shaheen Shah Afridi,4.0,0,33,0,8.25,13,5,1,2,0,T20I # 2642,24
+478,Pakistan vs U.S.A.,Pakistan,Mohammad Amir,4.0,0,25,1,6.25,12,2,0,3,0,T20I # 2642,24
+479,Pakistan vs U.S.A.,Pakistan,Naseem Shah,4.0,0,26,1,6.5,9,3,0,2,0,T20I # 2642,24
+480,Pakistan vs U.S.A.,Pakistan,Haris Rauf,4.0,0,37,1,9.25,9,4,1,1,0,T20I # 2642,24
+481,Pakistan vs U.S.A.,Pakistan,Shadab Khan,3.0,0,27,0,9.0,4,0,2,1,0,T20I # 2642,18
+482,Pakistan vs U.S.A.,Pakistan,Iftikhar Ahmed,1.0,0,10,0,10.0,2,2,0,0,0,T20I # 2642,6
+483,Australia vs Oman,Oman,Bilal Khan,4.0,0,36,1,9.0,9,4,1,1,1,T20I # 2641,24
+484,Australia vs Oman,Oman,Kaleemullah,3.0,0,30,1,10.0,7,4,1,0,0,T20I # 2641,18
+485,Australia vs Oman,Oman,Shakeel Ahmed,4.0,0,28,0,7.0,10,2,1,0,1,T20I # 2641,24
+486,Australia vs Oman,Oman,Mehran Khan,4.0,0,38,2,9.5,12,1,4,0,1,T20I # 2641,24
+487,Australia vs Oman,Oman,Aqib Ilyas,4.0,0,18,0,4.5,10,1,0,0,0,T20I # 2641,24
+488,Australia vs Oman,Oman,Zeeshan Maqsood,1.0,0,12,0,12.0,0,2,0,0,0,T20I # 2641,6
+489,Australia vs Oman,Australia,Mitchell Starc,3.0,0,20,2,6.66,12,3,0,5,0,T20I # 2641,18
+490,Australia vs Oman,Australia,Josh Hazlewood,4.0,0,21,0,5.25,12,1,1,0,0,T20I # 2641,24
+491,Australia vs Oman,Australia,Nathan Ellis,4.0,0,28,2,7.0,9,2,1,1,0,T20I # 2641,24
+492,Australia vs Oman,Australia,Marcus Stoinis,3.0,0,19,3,6.33,11,1,1,1,0,T20I # 2641,18
+493,Australia vs Oman,Australia,Glenn Maxwell,2.0,0,11,0,5.5,5,1,0,1,0,T20I # 2641,12
+494,Australia vs Oman,Australia,Adam Zampa,4.0,0,24,2,6.0,11,0,2,0,0,T20I # 2641,24
+495,P.N.G. vs Uganda,Uganda,Alpesh Ramjani,4.0,1,17,2,4.25,16,1,1,0,0,T20I # 2640,24
+496,P.N.G. vs Uganda,Uganda,Cosmas Kyewuta,3.1,0,17,2,5.36,9,2,0,0,0,T20I # 2640,19
+497,P.N.G. vs Uganda,Uganda,Juma Miyagi,4.0,0,11,2,2.75,16,0,0,0,1,T20I # 2640,24
+498,P.N.G. vs Uganda,Uganda,Brian Masaba,4.0,0,17,1,4.25,11,1,0,0,0,T20I # 2640,24
+499,P.N.G. vs Uganda,Uganda,Frank Nsubuga,4.0,2,4,2,1.0,20,0,0,0,0,T20I # 2640,24
+500,P.N.G. vs Uganda,P.N.G.,Alei Nao,4.0,0,16,2,4.0,16,0,0,3,0,T20I # 2640,24
+501,P.N.G. vs Uganda,P.N.G.,Norman Vanua,4.0,0,19,2,4.75,17,1,0,6,0,T20I # 2640,24
+502,P.N.G. vs Uganda,P.N.G.,Chad Soper,4.0,0,13,1,3.25,14,0,0,1,0,T20I # 2640,24
+503,P.N.G. vs Uganda,P.N.G.,Assad Vala,2.0,0,10,1,5.0,6,1,0,0,0,T20I # 2640,12
+504,P.N.G. vs Uganda,P.N.G.,John Kariko,4.0,0,18,0,4.5,8,0,0,0,0,T20I # 2640,24
+505,P.N.G. vs Uganda,P.N.G.,Charles Amini,0.2,0,2,0,6.0,1,0,0,0,0,T20I # 2640,2
+506,Ireland vs India,India,Arshdeep Singh,4.0,0,35,2,8.75,14,3,1,5,1,T20I # 2639,24
+507,Ireland vs India,India,Mohammed Siraj,3.0,0,13,1,4.33,14,2,0,0,0,T20I # 2639,18
+508,Ireland vs India,India,Jasprit Bumrah,3.0,1,6,2,2.0,13,0,0,0,0,T20I # 2639,18
+509,Ireland vs India,India,Hardik Pandya,4.0,1,27,3,6.75,14,2,2,0,0,T20I # 2639,24
+510,Ireland vs India,India,Axar Patel,1.0,0,3,1,3.0,3,0,0,0,0,T20I # 2639,6
+511,Ireland vs India,India,Ravindra Jadeja,1.0,0,7,0,7.0,2,1,0,0,0,T20I # 2639,6
+512,Ireland vs India,Ireland,Mark Adair,4.0,0,27,1,6.75,13,3,0,3,0,T20I # 2639,24
+513,Ireland vs India,Ireland,Josh Little,4.0,0,42,0,10.5,12,2,4,3,0,T20I # 2639,24
+514,Ireland vs India,Ireland,Barry McCarthy,2.2,0,18,0,7.71,5,1,1,0,0,T20I # 2639,14
+515,Ireland vs India,Ireland,Curtis Campher,1.0,0,4,0,4.0,3,0,0,0,0,T20I # 2639,6
+516,Ireland vs India,Ireland,Ben White,1.0,0,6,1,6.0,3,1,0,0,0,T20I # 2639,6
+517,Nepal vs Netherlands,Netherlands,Vivian Kingma,4.0,0,23,0,5.75,15,4,0,2,0,T20I # 2638,24
+518,Nepal vs Netherlands,Netherlands,Tim Pringle,4.0,0,20,3,5.0,13,1,1,0,0,T20I # 2638,24
+519,Nepal vs Netherlands,Netherlands,Logan van Beek,3.2,0,18,3,5.4,14,2,1,0,0,T20I # 2638,20
+520,Nepal vs Netherlands,Netherlands,Paul van Meekeren,4.0,0,19,2,4.75,12,2,0,1,0,T20I # 2638,24
+521,Nepal vs Netherlands,Netherlands,Bas de Leede,4.0,1,22,2,5.5,12,1,1,1,0,T20I # 2638,24
+522,Nepal vs Netherlands,Nepal,Karan KC,3.0,0,17,0,5.66,10,3,0,0,0,T20I # 2638,18
+523,Nepal vs Netherlands,Nepal,Sompal Kami,4.0,0,18,1,4.5,12,2,0,0,0,T20I # 2638,24
+524,Nepal vs Netherlands,Nepal,Gulsan Jha,2.0,0,17,0,8.5,2,2,0,0,1,T20I # 2638,12
+525,Nepal vs Netherlands,Nepal,Dipendra Singh Airee,2.0,0,6,1,3.0,7,0,0,0,0,T20I # 2638,12
+526,Nepal vs Netherlands,Nepal,Abinash Bohara,3.4,0,29,1,7.9,5,2,1,0,0,T20I # 2638,22
+527,Nepal vs Netherlands,Nepal,Sagar Dhakal,4.0,0,21,0,5.25,8,1,0,0,0,T20I # 2638,24
+528,Afghanistan vs Uganda,Uganda,Alpesh Ramjani,4.0,0,33,1,8.25,9,0,2,0,0,T20I # 2636,24
+529,Afghanistan vs Uganda,Uganda,Cosmas Kyewuta,4.0,0,25,2,6.25,9,2,0,0,0,T20I # 2636,24
+530,Afghanistan vs Uganda,Uganda,Dinesh Nakrani,3.0,0,37,0,12.33,2,6,0,0,0,T20I # 2636,18
+531,Afghanistan vs Uganda,Uganda,Bilal Hassan,2.0,0,34,0,17.0,3,4,1,1,1,T20I # 2636,12
+532,Afghanistan vs Uganda,Uganda,Henry Ssenyondo,2.0,0,19,0,9.5,4,0,2,1,0,T20I # 2636,12
+533,Afghanistan vs Uganda,Uganda,Riazat Ali Shah,1.0,0,11,0,11.0,1,1,0,0,0,T20I # 2636,6
+534,Afghanistan vs Uganda,Uganda,Brian Masaba,4.0,0,21,2,5.25,8,0,0,0,0,T20I # 2636,24
+535,Afghanistan vs Uganda,Afghanistan,Fazalhaq Farooqi,4.0,0,9,5,2.25,18,1,0,0,0,T20I # 2636,24
+536,Afghanistan vs Uganda,Afghanistan,Mujeeb Ur Rahman,3.0,0,16,1,5.33,13,2,0,1,0,T20I # 2636,18
+537,Afghanistan vs Uganda,Afghanistan,Naveen-ul-Haq,2.0,0,4,2,2.0,9,0,0,1,0,T20I # 2636,12
+538,Afghanistan vs Uganda,Afghanistan,Azmatullah Omarzai,2.0,0,7,0,3.5,8,0,0,1,0,T20I # 2636,12
+539,Afghanistan vs Uganda,Afghanistan,Rashid Khan,4.0,0,12,2,3.0,16,1,0,0,0,T20I # 2636,24
+540,Afghanistan vs Uganda,Afghanistan,Mohammad Nabi,1.0,0,8,0,8.0,3,0,1,0,0,T20I # 2636,6
+541,Sri Lanka vs South Africa,South Africa,Marco Jansen,3.1,0,15,0,4.73,11,0,1,1,0,T20I # 2635,19
+542,Sri Lanka vs South Africa,South Africa,Kagiso Rabada,4.0,1,21,2,5.25,15,2,1,1,0,T20I # 2635,24
+543,Sri Lanka vs South Africa,South Africa,Ottneil Baartman,4.0,1,9,1,2.25,20,1,0,1,0,T20I # 2635,24
+544,Sri Lanka vs South Africa,South Africa,Keshav Maharaj,4.0,0,22,2,5.5,10,0,1,0,0,T20I # 2635,24
+545,Sri Lanka vs South Africa,South Africa,Anrich Nortje,4.0,0,7,4,1.75,18,0,0,0,0,T20I # 2635,24
+546,Sri Lanka vs South Africa,Sri Lanka,Angelo Mathews,3.0,0,16,0,5.33,11,1,1,1,0,T20I # 2635,18
+547,Sri Lanka vs South Africa,Sri Lanka,Nuwan Thushara,3.0,0,18,1,6.0,8,0,1,0,1,T20I # 2635,18
+548,Sri Lanka vs South Africa,Sri Lanka,Dasun Shanaka,3.0,1,6,1,2.0,12,0,0,0,0,T20I # 2635,18
+549,Sri Lanka vs South Africa,Sri Lanka,Matheesha Pathirana,3.0,0,12,0,4.0,8,0,0,1,0,T20I # 2635,18
+550,Sri Lanka vs South Africa,Sri Lanka,Wanindu Hasaranga,3.2,0,22,2,6.6,10,2,1,0,0,T20I # 2635,20
+551,Sri Lanka vs South Africa,Sri Lanka,Maheesh Theekshana,1.0,0,3,0,3.0,3,0,0,0,0,T20I # 2635,6
+552,Oman vs Namibia,Namibia,Ruben Trumpelmann,4.0,0,21,4,5.25,12,2,0,0,1,T20I # 2634,24
+553,Oman vs Namibia,Namibia,David Wiese,3.4,0,28,3,7.63,11,4,1,0,0,T20I # 2634,22
+554,Oman vs Namibia,Namibia,Tangeni Lungameni,4.0,0,18,0,4.5,14,2,0,1,0,T20I # 2634,24
+555,Oman vs Namibia,Namibia,Bernard Scholtz,4.0,0,20,1,5.0,11,0,1,1,0,T20I # 2634,24
+556,Oman vs Namibia,Namibia,Gerhard Erasmus,4.0,0,20,2,5.0,9,1,0,0,0,T20I # 2634,24
+557,Oman vs Namibia,Oman,Bilal Khan,4.0,0,25,1,6.25,11,2,1,1,0,T20I # 2634,24
+558,Oman vs Namibia,Oman,Shakeel Ahmed,3.0,0,20,0,6.66,10,4,0,0,0,T20I # 2634,18
+559,Oman vs Namibia,Oman,Kaleemullah,2.0,0,10,0,5.0,7,1,0,0,0,T20I # 2634,12
+560,Oman vs Namibia,Oman,Aqib Ilyas,4.0,1,17,1,4.25,15,1,1,0,0,T20I # 2634,24
+561,Oman vs Namibia,Oman,Mehran Khan,3.0,1,7,3,2.33,12,0,0,0,0,T20I # 2634,18
+562,Oman vs Namibia,Oman,Zeeshan Maqsood,2.0,0,12,0,6.0,4,1,0,0,0,T20I # 2634,12
+563,Oman vs Namibia,Oman,Ayaan Khan,2.0,0,12,1,6.0,6,1,0,1,0,T20I # 2634,12
+564,P.N.G. vs West Indies,West Indies,Akeal Hosein,3.0,0,9,1,3.0,13,1,0,0,0,T20I # 2633,18
+565,P.N.G. vs West Indies,West Indies,Romario Shepherd,3.0,0,23,1,7.66,5,1,0,1,0,T20I # 2633,18
+566,P.N.G. vs West Indies,West Indies,Andre Russell,3.0,0,19,2,6.33,8,2,0,1,0,T20I # 2633,18
+567,P.N.G. vs West Indies,West Indies,Roston Chase,4.0,0,26,0,6.5,11,1,1,3,0,T20I # 2633,24
+568,P.N.G. vs West Indies,West Indies,Alzarri Joseph,4.0,0,34,2,8.5,11,5,0,1,1,T20I # 2633,24
+569,P.N.G. vs West Indies,West Indies,Gudakesh Motie,3.0,0,24,1,8.0,7,2,1,0,0,T20I # 2633,18
+570,P.N.G. vs West Indies,P.N.G.,Kabua Morea,3.0,0,30,0,10.0,7,6,0,0,0,T20I # 2633,18
+571,P.N.G. vs West Indies,P.N.G.,Alei Nao,2.0,1,9,1,4.5,9,2,0,0,0,T20I # 2633,12
+572,P.N.G. vs West Indies,P.N.G.,Chad Soper,3.0,0,19,1,6.33,8,2,0,0,0,T20I # 2633,18
+573,P.N.G. vs West Indies,P.N.G.,Sese Bau,1.0,0,18,0,18.0,1,1,2,0,0,T20I # 2633,6
+574,P.N.G. vs West Indies,P.N.G.,John Kariko,4.0,0,17,1,4.25,15,0,1,0,0,T20I # 2633,24
+575,P.N.G. vs West Indies,P.N.G.,Assad Vala,4.0,1,28,2,7.0,11,3,1,0,0,T20I # 2633,24
+576,P.N.G. vs West Indies,P.N.G.,Charles Amini,2.0,0,14,0,7.0,3,0,1,0,0,T20I # 2633,12
+577,Canada vs U.S.A.,U.S.A.,Ali Khan,4.0,0,41,1,10.25,11,5,2,2,0,T20I # 2632,24
+578,Canada vs U.S.A.,U.S.A.,Saurabh Netravalkar,2.0,0,16,0,8.0,3,2,0,0,0,T20I # 2632,12
+579,Canada vs U.S.A.,U.S.A.,Harmeet Singh,4.0,0,27,1,6.75,11,3,1,0,0,T20I # 2632,24
+580,Canada vs U.S.A.,U.S.A.,Jasdeep Singh,3.0,0,24,0,8.0,7,4,0,0,0,T20I # 2632,18
+581,Canada vs U.S.A.,U.S.A.,Shadley van Schalkwyk,3.0,0,34,0,11.33,1,1,2,0,0,T20I # 2632,18
+582,Canada vs U.S.A.,U.S.A.,Steven Taylor,1.0,0,15,0,15.0,1,0,2,0,0,T20I # 2632,6
+583,Canada vs U.S.A.,U.S.A.,Corey Anderson,3.0,0,29,1,9.66,4,2,1,0,0,T20I # 2632,18
+584,Canada vs U.S.A.,Canada,Kaleem Sana,4.0,0,34,1,8.5,9,4,0,3,0,T20I # 2632,24
+585,Canada vs U.S.A.,Canada,Jeremy Gordon,3.0,0,44,0,14.66,7,4,3,3,2,T20I # 2632,18
+586,Canada vs U.S.A.,Canada,Dilon Heyliger,3.0,0,19,1,6.33,9,0,1,2,0,T20I # 2632,18
+587,Canada vs U.S.A.,Canada,Saad Bin Zafar,4.0,0,42,0,10.5,9,2,4,0,0,T20I # 2632,24
+588,Canada vs U.S.A.,Canada,Nikhil Dutta,2.4,0,41,1,15.37,5,2,4,2,1,T20I # 2632,16
+589,Canada vs U.S.A.,Canada,Pargat Singh,1.0,0,15,0,15.0,0,1,1,0,0,T20I # 2632,6
