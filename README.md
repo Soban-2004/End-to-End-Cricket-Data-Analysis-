@@ -16,33 +16,33 @@ This project focuses on analyzing the data from the **ICC Men's T20 World Cup 20
    #### 2.1: **Openers**
    - Focuses on the performance of opening batsmen, their runs, strike rates, and average scores across the tournament.
    
-   ![Openers](assets/screenshots/Openers.png)
+   ![Openers](screenshots/Openers.png)
 
-   ![Openers](assets/screenshots/Openers..png)
+   ![Openers](screenshots/Openers..png)
    
    #### 2.2: **Middle Order**
    - Analyzes the performance of middle-order batsmen, evaluating their impact in terms of stability, strike rate, and runs scored in pressure situations.
    
-   ![Middle Order](assets/screenshots/middle_order_analysis.png)
+   ![Middle Order](screenshots/Middle_order.png)
    
    #### 2.3: **Finishers**
    - Examines the performance of finishers—players who contribute to completing the innings and hitting crucial boundaries in the final overs.
    
-   ![Finishers](assets/screenshots/finishers_analysis.png)
+   ![Finishers](screenshots/Finisher.png)
    
    #### 2.4: **All-Rounders**
    - A detailed analysis of players who have excelled with both bat and ball. This includes their contribution to the team's overall performance in all aspects of the game.
    
-   ![All-Rounders](assets/screenshots/all_rounders_analysis.png)
+   ![All-Rounders](screenshots/all_rounder.png)
    
    #### 2.5: **Bowlers**
    - Focuses on the performance of bowlers, highlighting key metrics such as economy rates, wickets taken, and their effectiveness in different match situations.
 
-   ![Bowlers](assets/screenshots/bowlers_analysis.png)
+   ![Bowlers](screenshots/bowlers.png)
 
 ### 3. **Final 11 (Best)**  
    - Based on the analysis, this page identifies the **best 11 players** of the tournament. This includes the top performers across all categories—batsmen, bowlers, and all-rounders—who have shown exceptional skills and contributed significantly to their team's success.
 
-   ![Best 11 Players](assets/screenshots/final_11_best_players.png)
+   ![Best 11 Players](screenshots/final_11.png)
 
 
