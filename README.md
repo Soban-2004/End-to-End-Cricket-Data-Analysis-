@@ -8,7 +8,7 @@ This project focuses on analyzing the data from the **ICC Men's T20 World Cup 20
    - Provides an overview of the entire tournament, showcasing key statistics such as total runs scored, wickets taken, win percentages, and match results across all teams.
    - Visualizations include bar charts, pie charts, and trends over the course of the tournament.
 
-   ![Overall Tournament Analysis](screenshots/Screenshot 2025-03-01 142826.png)
+   ![Overall Tournament Analysis](screenshots/Overall.png)
 
 ### 2. **Player Analysis**
    - This section dives deeper into player performance across different roles in the game. It is subdivided into several categories:
